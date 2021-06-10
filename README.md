@@ -4,7 +4,6 @@
 <hr>
 - I know Python
 
-<hr>
 ## My Stats : 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noob-Coder-69-codes&theme=black)](https://git.io/streak-stats)
 
