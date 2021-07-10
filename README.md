@@ -1,6 +1,6 @@
 ## Hello I am Mr.Harsh
-  - I know Python, Java , HTML
-  - Thought of learning more things...
+    -- I know Python, Java , HTML
+    -- Thought of learning more things...
 <hr>
 
 ## My Stats : 
