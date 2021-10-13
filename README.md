@@ -1,6 +1,6 @@
 # Hello I am Mr.Harsh
- - I know Python, Java , HTML
- - Next to learn C , C ++ , DSA.
+ - I know Python, Java , HTML, C, C--
+ - Next to learn DSA.
 <hr>
 
 # Aim : Machine Learning
