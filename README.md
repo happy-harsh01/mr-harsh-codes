@@ -1,7 +1,6 @@
 # Hello I am Mr.Harsh
  - I know Python, Java (Little bit), HTML, C, C++
  - Learning DSA
- - Starated Machine Learning
 <hr>
 
 # Aim : Machine Learning
